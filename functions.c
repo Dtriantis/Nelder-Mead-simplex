@@ -6,7 +6,6 @@
  * 	-   x: Current point, or in the specific case of nelder-mead algorithm, the current simplex
 */ 
 
-
 double functions(int num, double *vec, int dim)
 {
 	int i;
