@@ -1,6 +1,7 @@
 #include <math.h>
 #include <stdlib.h>
 #include <time.h>
+
 /* Our test functions
  * Arguments:
  * 	- num: Function id with integer values
